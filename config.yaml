@@ -1,6 +1,6 @@
-baseURL: http://example.org/
+baseURL: http://junrulai.netlify.app/
 languageCode: en-us
-title: Forty
+title: Junru Lai
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -10,18 +10,18 @@ params:
     subtitle: |-
       A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Forty
+    title: Hi, my name is Junru
   blog: {}
   contact:
     address:
-      - city: City, ST 00000
+      - city: Berlin, 10178
         country: Country
         street: Street
         title: Address
     buttonClear: Clear
     buttonSend: Send message
     email:
-      - email: example@domain.com
+      - email: junru.lai@mim.esmt.org
         title: Email
     enable: yes
     phone:
@@ -35,28 +35,28 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Company Name
+    copyright: Junru Lai
     enable: yes
-    quicklinks:
-      - alt: HTML5 UP
-        text: 'Design: '
-        url: https://www.html5up.net
+#    quicklinks:
+#      - alt: HTML5 UP
+#        text: 'Design: '
+#        url: https://www.html5up.net
     social:
-      - icon: fa-twitter
-        label: Twitter
-        url: https://www.twitter.com
+#     - icon: fa-twitter
+#       label: Twitter
+#       url: https://www.twitter.com
       - icon: fa-facebook
         label: Facebook
-        url: https://www.facebook.com
+        url: https://www.facebook.com/junrulai
       - icon: fa-instagram
         label: Instagram
-        url: https://www.instagram.com
+        url: https://www.instagram.com/junruislai
       - icon: fa-github
         label: GitHub
-        url: https://www.github.com
+        url: https://www.github.com/junrulai
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com
+        url: https://www.linkedin.com/in/junru-lai/
   image: ''
   name: Your name
   navigation:
