@@ -8,7 +8,7 @@ description: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis mag
   sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem
   consequat tincidunt. Vivamus et sagittis tempus.
 draft: false
-image: IMG_ESMT1.jpg
+image: IMG_ESMT1.jpeg
 keywords: ""
 slug: aboutme
 title: My Short Bio
