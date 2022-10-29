@@ -85,10 +85,10 @@ params:
         subtitle: Junru here
         title: About me
         url: blogs/aboutme
-      - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
+      - image: IMG_9732.jpeg
+        subtitle: Risk return of Dow Jones
+        title: US Stock
+        url: blogs/risk_return
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
         title: Magna
