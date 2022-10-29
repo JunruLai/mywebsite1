@@ -8,8 +8,10 @@ description: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis mag
   sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem
   consequat tincidunt. Vivamus et sagittis tempus.
 draft: false
-image: pic07.jpg
+image: IMG_ESMT1.jpg
 keywords: ""
-slug: aliquam
-title: Aliquam
+slug: aboutme
+title: My Short Bio
 ---
+
+hello world. junru here 29.10.2022
